@@ -8,7 +8,8 @@ First we examined our data.
 
 - polarity
 
--subjectivity
+- subjectivity
+
 
 - word count (without stop words) 
 
